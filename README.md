@@ -9,4 +9,4 @@ On analysis of annual mean emission data, it is observed that the London is home
 
 In conclusion, on basing the findings of the analysis it observed that, Liverpool can be more sustainable city in terms on public health perspectives, when compared to London and Birmingham especially in winter and autumn seasons as these two cities are more emission when compared to Liverpool.
 
-![Alt text](https://example.com/path/to/image.png](https://github.com/roshanayyadevara/Assessing-UK-Air-Pollution/blob/main/Dashboard.png)
+![Alt text](https://github.com/roshanayyadevara/Assessing-UK-Air-Pollution/blob/main/Dashboard.png)
